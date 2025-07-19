@@ -49,7 +49,8 @@ Exported step-by-step cell counts and final states to files. These outputs suppo
 
 ## Acknowledgements
 
-Thanks to Maya, Azam, Aleksandra, and Muneeb for collaboration and feedback. Grateful to our TAs and instructors for guidance, and to John Conway for the enduring elegance of his ruleset.
+This project was made possible due to help from various online articles, YouTube videos, and inspiration from my classmate Rish.
+
 
 ## Author
 
