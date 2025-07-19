@@ -1,3 +1,0 @@
-Grid.class
-Grid.java
-README.txt
